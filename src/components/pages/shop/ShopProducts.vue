@@ -8,9 +8,9 @@
           <img :src="image" alt="image">
             <br><br>
             <strong>  {{product.name}}</strong>
-            <p class="price"> &#2547; {{product.price}} </p>
+            <p class="price"> &#2547; {{product.year}} </p>
 
-            
+
           </div>
       </router-link>
     </div>
