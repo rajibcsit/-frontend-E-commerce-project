@@ -9,6 +9,8 @@
             <br><br>
             <strong>  {{product.name}}</strong>
             <p class="price"> &#2547; {{product.price}} </p>
+
+            
           </div>
       </router-link>
     </div>
